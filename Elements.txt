@@ -1,0 +1,12 @@
+2 Elements
+
+//div[text ( )='REDMI 10 (Pacific Blue, 64 GB)']
+//div[text ( )='REDMI 10 (Pacific Blue, 64 GB)']/../..
+//div[text ( )='REDMI 10 (Pacific Blue, 64 GB)']/../..//div[@class='_30jeq3 _1_WHN1']
+
+3 Elements
+(//li[text()='3 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]
+(//li[text()='3 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../..
+(//li[text()='3 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../..//div[text()='realme C31 (Dark Green, 32 GB)']
+(//li[text()='3 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../..//div[text()='realme C31 (Dark Green, 32 GB)']/../..
+(//li[text()='3 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../..//div[text()='realme C31 (Dark Green, 32 GB)']/../..//div[@class='_30jeq3 _1_WHN1']
